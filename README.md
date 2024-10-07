@@ -4,6 +4,10 @@
 <h2 align="center">Mi perfil profesional:</h2>
 <h3 align="center">Programador para entornos virtuales y Docente investigador</h3>
 
+<p align="center"> <img src="https://github.com/SonyUTT/SonyUTT/blob/main/foto.jpg" /> </p>
+
+
+
 <p align="left"> <img src="https://github.com/SonyUTT/SonyUTT/blob/main/banner.jpg" /> </p>
 
 
