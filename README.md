@@ -1,6 +1,6 @@
-## Hi there 👋
 
-<h1 align="center">Bievenido 👋, Mi nombre es Sonny</h1>
+
+<h1 align="center">Bievenido 👋 👋, Mi nombre es Sonny</h1>
 <h2 align="center">Mi perfil profesional:</h2>
 <h3 align="center">Programador para entornos virtuales y Docente investigador</h3>
 
